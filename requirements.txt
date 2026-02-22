@@ -1,0 +1,7 @@
+neo4j==6.1.0
+openai_harmony==0.0.8
+pandas==3.0.0
+python-dotenv==1.2.1
+rapidfuzz==3.14.3
+torch==2.9.0+cu128
+transformers==5.0.0
