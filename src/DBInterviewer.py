@@ -273,9 +273,6 @@ class DBInterviewer:
 		result = []
 		summaries = []
 
-		if isinstance(samples, str):
-			samples = [samples]
-
 		with self.driver.session() as session:
 			
 			for s in samples:
@@ -411,9 +408,6 @@ class DBInterviewer:
 			edges
 		ORDER BY path_index
 		"""
-		
-		if isinstance(samples, str):
-			samples = [samples]
 
 		with self.driver.session() as session:
 			for s in samples:
