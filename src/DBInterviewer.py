@@ -274,7 +274,6 @@ class DBInterviewer:
 		summaries = []
 
 		with self.driver.session() as session:
-			
 			for s in samples:
 				# 1) Drop tmp if exists
 				drop_query = """
@@ -411,9 +410,7 @@ class DBInterviewer:
 
 		with self.driver.session() as session:
 			for s in samples:
-
 				gview = self.graphview_map[s]
-
 				try:
 					aux_result = session.run(
 						query,
