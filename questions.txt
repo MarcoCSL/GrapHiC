@@ -1,0 +1,79 @@
+What is the shortest path between Sox2 and Pou5f1 in ES?
+How many hops separate Sox2 and Nanog in ES?
+Is the shortest path between Pax6 and Neurog2 shorter in ES or in NPC?
+What is the minimum path between Tbr1 and Tbr2 in NPC?
+How many hops separate Bdnf and Ntrk2 in ES?
+What is the shortest path between Dcc and Robo1 in NPC?
+What is the minimum path between Hoxa1 and Hoxa13 in ES?
+How many hops separate Shh and Gli3 in NPC?
+What is the shortest path between Hes1 and Hes5 in NPC?
+Is the minimum path between Notch1 and Hes1 shorter in ES or in NPC?
+Does the shortest path between Sox2 and Pax6 increase or decrease between ES and NPC?
+Is the shortest path between Neurog2 and Ascl1 different between ES and NPC?
+Does the shortest path between Wnt3a and Dkk1 change between ES and NPC?
+What is the degree centrality of Sox2 in ES?
+Does Pax6 have higher degree centrality in ES or in NPC?
+What is the degree centrality of Neurog2 in NPC?
+What is the degree centrality of Nanog in ES?
+Does Notch1 have higher degree centrality in ES or in NPC?
+What is the degree centrality of Shh in NPC?
+What is the degree centrality of Hoxa9 in ES?
+Does the degree centrality of Pax6 change between ES and NPC?
+Does Nanog lose or gain connections between ES and NPC?
+Does Neurog2 have more connections in ES or in NPC?
+What is the betweenness centrality of Pax6 in NPC?
+What is the betweenness centrality of Neurog2 in NPC?
+What is the betweenness centrality of Notch1 in ES?
+Does Hes1 have higher betweenness centrality in ES or in NPC?
+Does Gli3 have higher betweenness centrality in ES or in NPC?
+Does Pax6 become more central (in terms of betweenness) in NPC compared to ES?
+Does the betweenness centrality of Nanog change between ES and NPC?
+Is the betweenness centrality of Neurog2 stable between ES and NPC?
+Does Shh lose or gain betweenness centrality between ES and NPC?
+What is the closeness centrality of Sox2 in ES?
+Does Pax6 have higher closeness centrality in ES or in NPC?
+Does Nanog have high or low closeness centrality in ES?
+Is the closeness centrality of Neurog2 higher in ES or in NPC?
+Does the closeness centrality of Shh change between ES and NPC?
+What is the eigenvector centrality of Sox2 in ES?
+Does Pax6 have higher eigenvector centrality in ES or in NPC?
+Is the eigenvector centrality of Nanog high in ES?
+Does Neurog2 have higher eigenvector centrality in NPC compared to ES?
+What is the eigenvector centrality of Notch1 in NPC?
+What is the clustering coefficient of Sox2 in ES?
+Does Pax6 have a higher clustering coefficient in ES or in NPC?
+Does Nanog have a high clustering coefficient in ES?
+Does the clustering coefficient of Neurog2 increase in NPC?
+What is the clustering coefficient of Bdnf in NPC?
+Among Sox2, Pax6, Tbr1, and Rbfox3, which has the highest degree centrality in NPC?
+Rank Nanog, Klf4, Esrrb, and Pou5f1 by degree centrality in ES.
+Which gene has the shortest path to Sox2 in ES: Nanog, Pou5f1, or Klf4?
+Rank Pax6, Neurog2, Ascl1, and Hes1 by closeness centrality in NPC.
+Among Bdnf, Ntrk2, Shh, and Gli3, which has the highest eigenvector centrality in NPC?
+Among Notch1, Hes1, and Hes5, which has the highest clustering coefficient in NPC?
+Are Sox2 and Pou5f1 directly connected in ES?
+Are Pax6 and Neurog2 neighbors in NPC?
+Are Dlx1 and Dlx2 neighbors in NPC?
+Do Hoxa9 and Hoxd9 have a direct edge in ES?
+How many neighbors does Sox2 have in ES?
+How many neighbors does Pax6 have in NPC?
+How many neighbors does Nanog have in ES?
+Does Neurog2 have more neighbors in ES or in NPC?
+How many neighbors does Shh have in NPC?
+How many common neighbors do Sox2 and Pou5f1 share in ES?
+Do Sox2 and Nanog share neighbors in ES? How many?
+How many common neighbors do Pax6 and Neurog2 share in NPC?
+How many common neighbors do Dlx1 and Dlx2 share in NPC?
+How many common neighbors do Hes1 and Hes5 share in NPC?
+Do Hoxa1 and Hoxa13 share neighbors in ES? How many?
+What is the average shortest path between Sox2 and the pluripotency genes Nanog, Pou5f1, Klf4, and Esrrb in ES?
+What is the average degree centrality of Nanog, Pou5f1, Klf4, and Esrrb in ES?
+Is the average degree centrality of Pax6, Neurog2, and Ascl1 higher in ES or in NPC?
+What is the average closeness centrality of Hoxa1, Hoxa9, and Hoxa13 in ES?
+Is there a path Sox2 → Pax6 → Neurog2 in NPC?
+What is the total length of the path Sox2 → Pax6 → Tbr2 → Tbr1 in NPC?
+Does the path Nanog → Sox2 → Pax6 exist in ES?
+What is the length of the path Notch1 → Hes1 → Neurog2 in NPC?
+Does the path Shh → Gli3 → Pax6 exist in NPC?
+Is there a path Hoxa1 → Hoxa9 → Hoxa13 in ES?
+Does the path Sox2 → Pou5f1 → Nanog form a triangle in ES?
