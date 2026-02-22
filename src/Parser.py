@@ -60,7 +60,6 @@ class Parser():
 
 		return cleaned
 
-	# In real programming languages you can pass variables by reference...
 	def is_valid_answer(self, answer):
 		function = answer.get("function")
 		genes = answer.get("genes")
