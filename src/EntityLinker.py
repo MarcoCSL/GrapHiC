@@ -1,6 +1,6 @@
+from rapidfuzz import process, fuzz
 from pathlib import Path
 import pandas as pd
-from rapidfuzz import process, fuzz
 
 
 PROJECT_DIR = Path(__file__).resolve().parent.parent
