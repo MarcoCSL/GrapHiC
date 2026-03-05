@@ -43,7 +43,6 @@ What is the eigenvector centrality of Notch1 in NPC?
 What is the clustering coefficient of Sox2 in ES?
 Does Pax6 have a higher clustering coefficient in ES or in NPC?
 Does Nanog have a high clustering coefficient in ES?
-Does the clustering coefficient of Neurog2 increase in NPC?
 What is the clustering coefficient of Bdnf in NPC?
 Among Sox2, Pax6, Tbr1, and Rbfox3, which has the highest degree centrality in NPC?
 Rank Nanog, Klf4, Esrrb, and Pou5f1 by degree centrality in ES.
